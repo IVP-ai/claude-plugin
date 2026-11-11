@@ -32,14 +32,14 @@ In Claude Code:
 
 ```
 /plugin marketplace add IVP-ai/claude-plugin
-/plugin install ivp@ivp-ai
+/plugin install ivp-ai@ivp-ai
 ```
 
 Then run `/mcp`, choose `ivp` and sign in.
 
 ## Links
 
-- Documentation: https://ivp.ai
+- Documentation: https://ivp.ai/claude
 - Privacy policy: https://ivp.ai/privacy
 - Terms: https://ivp.ai/terms
 - Support: https://ivp.ai/contact

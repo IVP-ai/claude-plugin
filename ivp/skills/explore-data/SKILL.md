@@ -1,6 +1,6 @@
 ---
 name: explore-data
-description: Answer a business question from the user's IVP.ai datasets by finding the right dataset, checking its columns, aggregating and explaining the result. Use for questions about totals, trends, rankings or rows in the user's IVP.ai data.
+description: "Answer a business question from the user's IVP.ai datasets by finding the right dataset, checking its columns, aggregating and explaining the result. Use for questions about totals, trends, rankings or rows in the user's IVP.ai data."
 ---
 
 Use the IVP.ai tools to answer questions about the user's data ("what were sales by region last quarter?", "who are our top customers?").

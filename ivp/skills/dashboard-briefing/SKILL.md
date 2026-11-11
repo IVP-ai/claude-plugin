@@ -1,6 +1,6 @@
 ---
 name: dashboard-briefing
-description: Brief the user on an IVP.ai dashboard: what it tracks and what its numbers currently say. Use when the user asks to summarise, explain or review a dashboard or KPI board in IVP.ai.
+description: "Brief the user on an IVP.ai dashboard: what it tracks and what its numbers currently say. Use when the user asks to summarise, explain or review a dashboard or KPI board in IVP.ai."
 ---
 
 Use when the user asks about a dashboard ("summarise the Sales dashboard", "what's on our KPI board?").

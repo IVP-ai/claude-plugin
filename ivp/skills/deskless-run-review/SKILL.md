@@ -1,6 +1,6 @@
 ---
 name: deskless-run-review
-description: Review what the user's IVP.ai Deskless AI agents have been doing: recent runs, failures and what their outputs say. Use when the user asks about Deskless agents, virtual employees, their runs or their findings.
+description: "Review what the user's IVP.ai Deskless AI agents have been doing: recent runs, failures and what their outputs say. Use when the user asks about Deskless agents, virtual employees, their runs or their findings."
 ---
 
 Use when the user asks about their Deskless agents or virtual employees ("how did my agents do this week?", "why did the lead-scoring task fail?", "what did the competitor monitor find?"). These tools only exist when Deskless is enabled for the user's organisation; if they're missing, say Deskless isn't enabled.

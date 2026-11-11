@@ -9,7 +9,7 @@
   },
   "plugins": [
     {
-      "name": "ivp",
+      "name": "ivp-ai",
       "source": "./ivp",
       "description": "Explore your IVP.ai datasets, dashboards and Deskless AI agent runs from Claude.",
       "category": "data"
