@@ -1,0 +1,20 @@
+{
+  "name": "ivp",
+  "version": "0.1.0",
+  "description": "Explore your IVP.ai datasets, dashboards and Deskless AI agent runs from Claude. Read-only: answers are calculated on your own data, and Claude only sees what your IVP.ai account can already see.",
+  "author": {
+    "name": "IVP.ai",
+    "url": "https://ivp.ai"
+  },
+  "homepage": "https://ivp.ai",
+  "repository": "https://github.com/IVP-ai/claude-plugin",
+  "privacyPolicyUrl": "https://ivp.ai/privacy",
+  "license": "SEE LICENSE IN LICENSE",
+  "keywords": [
+    "analytics",
+    "data",
+    "dashboards",
+    "business-intelligence",
+    "ai-agents"
+  ]
+}

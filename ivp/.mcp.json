@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "ivp": {
+      "type": "http",
+      "url": "https://api.ivp.ai/mcp"
+    }
+  }
+}
